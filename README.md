@@ -1,15 +1,6 @@
-# Maths functions
-```cpp
-int a = pow(b, n);
-int a = sqrt(b);
-```
-- dwkjn
-- kjsdc
-	- jkdbwn
-	- lsnc
-- ohldns
-- `hello` is new funtion
-***
-1. wkejfc
-2. huow
-3. owidj
+- `name.length()` to determine length 
+- `name.empty()` to check input is given or empty 
+- `name.clear()` to clear the given input
+- `name apped("    ")` to append at the the ending of given input whatever is written In double couts
+- `name.insert(2,"    ")` to insert data written in double couts at the given position like (2)
+- `name.erase(0, 3)` to erase to content from given position (0) to the given ending (3)
